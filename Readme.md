@@ -11,8 +11,7 @@
 - :zap: Fun fact **I love Animes & Mangas :joy:**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sameer-ul-hassan-b10798209" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/sameer-ul-hassan-b10798209?trk=profile-badge">Sameer ul Hassan</a></div>
-              
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sameer-ul-hassan-b10798209" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/sameer-ul-hassan-b10798209?trk=profile-badge">Sameer ul Hassan</a></div>
 <a href="https://linkedin.com/in/sameer-ul-hassan-b10798209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-ul-hassan-b10798209" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
