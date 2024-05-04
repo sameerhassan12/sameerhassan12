@@ -20,7 +20,3 @@ I'm a student of Information Technology passionate about problem-solving and mob
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerhassan12&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerhassan12&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sameerhassan12&theme=dark)
-
-## My GitHub Contributions
-[![Flutter Project](https://github-readme-stats.vercel.app/api/pin/?username=sameerhassan12&repo=flutter-project&theme=dark)](https://github.com/sameerhassan12/flutter-project)
-[![React Project](https://github-readme-stats.vercel.app/api/pin/?username=sameerhassan12&repo=react-project&theme=dark)](https://github.com/sameerhassan12/react-project)
