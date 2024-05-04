@@ -1,7 +1,7 @@
 # Hi there! :wave: I'm Sameer ul Hassan
 
 ## About Me
-I'm a student of Information Technology passionate about problem-solving and mobile app development. Currently, I'm diving deep into Flutter and also have experience with React.js.
+I'm a professional mobile app developer with a passion for problem-solving and creating innovative solutions. My expertise lies in Flutter for mobile app development and React.js for web development.
 
 ## Fun Facts
 - :zap: I love Animes & Mangas :joy:
